@@ -8,6 +8,8 @@
 
 ### 🐛 Bug fixes
 
+- Fix iOS bundle build for irregularly hoisted dependencies or monorepos
+
 ### 💡 Others
 
 ## 55.0.0-alpha.8 — 2026-02-20
